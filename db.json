@@ -2,64 +2,265 @@
     "OlympicsDetail": [
         {
             "id": "1",
-            "name": "Bahrain",
-            "gold_medals": "1",
+            "name": "Australia",
+            "gold_medals": "2",
             "silver_medals": "1",
             "bronze_medals": "0",
             "detail":[
                 {
-                    "sport": "Athletics",
+                    "sport": "Swimming",
                     "gender": "female",
-                    "name": "winfred YAVI",
-                    "Madal": "Gold"
+                    "name": "Ariarne Titmus",
+                    "medal": "Gold"
                 },
                 {
                     "sport": "Athletics",
-                    "gender": "female",
-                    "name": "Salwa Eid NASER",
-                    "Madal": "Silver"
+                    "gender": "male",
+                    "name": "Peter Bol",
+                    "medal": "Silver"
+                },
+                {
+                    "sport": "Swimming",
+                    "gender": "male",
+                    "name": "Kyle Chalmers",
+                    "medal": "Gold"
                 }
             ]
         },
         {
             "id": "2",
-            "name": "Chile",
+            "name": "Brazil",
             "gold_medals": "1",
-            "silver_medals": "1",
+            "silver_medals": "2",
             "bronze_medals": "0",
             "detail":[
                 {
-                    "sport": "Shooting",
+                    "sport": "Football",
                     "gender": "female",
-                    "name": "Francisca CROVETTO CHADID",
-                    "Madal": "Gold"
+                    "name": "Marta Vieira da Silva",
+                    "medal": "Silver"
                 },
                 {
-                    "sport": "Wrestling",
-                    "gender": "male",
-                    "name": "Yasmani ACOSTA FERNANDEZ",
-                    "Madal": "Silver"
+                    "sport": "Volleyball",
+                    "gender": "female",
+                    "name": "Sheilla Castro",
+                    "medal": "Gold"
                 }
             ]
         },
         {
             "id": "3",
-            "name": "xxxxx",
+            "name": "Canada",
             "gold_medals": "1",
+            "silver_medals": "1",
+            "bronze_medals": "1",
+            "detail":[
+                {
+                    "sport": "Ice Hockey",
+                    "gender": "female",
+                    "name": "Marie-Philip Poulin",
+                    "medal": "Gold"
+                },
+                {
+                    "sport": "Swimming",
+                    "gender": "female",
+                    "name": "Penny Oleksiak",
+                    "medal": "Silver"
+                },
+                {
+                    "sport": "Athletics",
+                    "gender": "male",
+                    "name": "Andre De Grasse",
+                    "medal": "Bronze"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Germany",
+            "gold_medals": "2",
+            "silver_medals": "0",
+            "bronze_medals": "1",
+            "detail":[
+                {
+                    "sport": "Football",
+                    "gender": "male",
+                    "name": "Manuel Neuer",
+                    "medal": "Gold"
+                },
+                {
+                    "sport": "Swimming",
+                    "gender": "female",
+                    "name": "Sarah Sjöström",
+                    "medal": "Gold"
+                },
+                {
+                    "sport": "Cycling",
+                    "gender": "male",
+                    "name": "Gianluca Pozzato",
+                    "medal": "Bronze"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Japan",
+            "gold_medals": "1",
+            "silver_medals": "1",
+            "bronze_medals": "1",
+            "detail":[
+                {
+                    "sport": "Judo",
+                    "gender": "male",
+                    "name": "Shohei Ono",
+                    "medal": "Gold"
+                },
+                {
+                    "sport": "Gymnastics",
+                    "gender": "female",
+                    "name": "Nina Derwael",
+                    "medal": "Silver"
+                },
+                {
+                    "sport": "Wrestling",
+                    "gender": "female",
+                    "name": "Aiko Goro",
+                    "medal": "Bronze"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "South Korea",
+            "gold_medals": "1",
+            "silver_medals": "2",
+            "bronze_medals": "0",
+            "detail":[
+                {
+                    "sport": "Taekwondo",
+                    "gender": "male",
+                    "name": "Hwang Kyung-seon",
+                    "medal": "Gold"
+                },
+                {
+                    "sport": "Speed Skating",
+                    "gender": "female",
+                    "name": "Choi Min-jeong",
+                    "medal": "Silver"
+                },
+                {
+                    "sport": "Speed Skating",
+                    "gender": "female",
+                    "name": "Kim Bouton",
+                    "medal": "Silver"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Spain",
+            "gold_medals": "1",
+            "silver_medals": "0",
+            "bronze_medals": "2",
+            "detail":[
+                {
+                    "sport": "Basketball",
+                    "gender": "male",
+                    "name": "Ricky Rubio",
+                    "medal": "Silver"
+                },
+                {
+                    "sport": "Tennis",
+                    "gender": "male",
+                    "name": "Rafael Nadal",
+                    "medal": "Bronze"
+                },
+                {
+                    "sport": "Swimming",
+                    "gender": "male",
+                    "name": "Hugo González",
+                    "medal": "Bronze"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "France",
+            "gold_medals": "2",
             "silver_medals": "1",
             "bronze_medals": "0",
             "detail":[
                 {
-                    "sport": "Shooting",
+                    "sport": "Fencing",
                     "gender": "female",
-                    "name": "Francisca CROVETTO CHADID",
-                    "Madal": "Gold"
+                    "name": "Laura Flessel",
+                    "medal": "Gold"
                 },
                 {
-                    "sport": "Wrestling",
+                    "sport": "Cycling",
                     "gender": "male",
-                    "name": "Yasmani ACOSTA FERNANDEZ",
-                    "Madal": "Silver"
+                    "name": "Julian Alaphilippe",
+                    "medal": "Gold"
+                },
+                {
+                    "sport": "Athletics",
+                    "gender": "female",
+                    "name": "Rénelle Lamote",
+                    "medal": "Silver"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Italy",
+            "gold_medals": "1",
+            "silver_medals": "1",
+            "bronze_medals": "1",
+            "detail":[
+                {
+                    "sport": "Rowing",
+                    "gender": "female",
+                    "name": "Elena Giovannini",
+                    "medal": "Gold"
+                },
+                {
+                    "sport": "Shooting",
+                    "gender": "male",
+                    "name": "Domenico Rossi",
+                    "medal": "Silver"
+                },
+                {
+                    "sport": "Judo",
+                    "gender": "female",
+                    "name": "Odette Giuffrida",
+                    "medal": "Bronze"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "United Kingdom",
+            "gold_medals": "1",
+            "silver_medals": "1",
+            "bronze_medals": "1",
+            "detail":[
+                {
+                    "sport": "Cycling",
+                    "gender": "male",
+                    "name": "Chris Froome",
+                    "medal": "Gold"
+                },
+                {
+                    "sport": "Swimming",
+                    "gender": "female",
+                    "name": "Katherine Grainger",
+                    "medal": "Silver"
+                },
+                {
+                    "sport": "Equestrian",
+                    "gender": "female",
+                    "name": "Charlotte Dujardin",
+                    "medal": "Bronze"
                 }
             ]
         }
@@ -67,21 +268,63 @@
     "CountryDetail": [
         {
             "id": "1",
-            "population": "234712",
-            "capital": "457428",
-            "trenditional-food": "sdajsdk"
+            "population": "25,687,000",
+            "capital": "Canberra",
+            "traditional_food": "Vegemite"
         },
         {
             "id": "2",
-            "population": "234712",
-            "capital": "457428",
-            "trenditional-food": "sdajsdk"
+            "population": "213,993,000",
+            "capital": "Brasília",
+            "traditional_food": "Feijoada"
         },
         {
             "id": "3",
-            "population": "234712",
-            "capital": "457428",
-            "trenditional-food": "sdajsdk"
+            "population": "38,654,000",
+            "capital": "Ottawa",
+            "traditional_food": "Poutine"
+        },
+        {
+            "id": "4",
+            "population": "83,024,000",
+            "capital": "Berlin",
+            "traditional_food": "Wurst"
+        },
+        {
+            "id": "5",
+            "population": "126,476,000",
+            "capital": "Tokyo",
+            "traditional_food": "Sushi"
+        },
+        {
+            "id": "6",
+            "population": "51,709,000",
+            "capital": "Seoul",
+            "traditional_food": "Kimchi"
+        },
+        {
+            "id": "7",
+            "population": "47,000,000",
+            "capital": "Madrid",
+            "traditional_food": "Paella"
+        },
+        {
+            "id": "8",
+            "population": "67,000,000",
+            "capital": "Paris",
+            "traditional_food": "Baguette"
+        },
+        {
+            "id": "9",
+            "population": "60,000,000",
+            "capital": "Rome",
+            "traditional_food": "Pasta"
+        },
+        {
+            "id": "10",
+            "population": "67,000,000",
+            "capital": "London",
+            "traditional_food": "Fish and Chips"
         }
     ]
 }
