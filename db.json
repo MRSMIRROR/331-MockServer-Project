@@ -3,6 +3,7 @@
         {
             "id": "1",
             "name": "Australia",
+            "symbol": "au",
             "gold_medals": "2",
             "silver_medals": "1",
             "bronze_medals": "0",
@@ -30,6 +31,7 @@
         {
             "id": "2",
             "name": "Brazil",
+            "symbol": "br",
             "gold_medals": "1",
             "silver_medals": "2",
             "bronze_medals": "0",
@@ -51,6 +53,7 @@
         {
             "id": "3",
             "name": "Canada",
+            "symbol": "ca",
             "gold_medals": "1",
             "silver_medals": "1",
             "bronze_medals": "1",
@@ -78,6 +81,7 @@
         {
             "id": "4",
             "name": "Germany",
+            "symbol": "de",
             "gold_medals": "2",
             "silver_medals": "0",
             "bronze_medals": "1",
@@ -105,6 +109,7 @@
         {
             "id": "5",
             "name": "Japan",
+            "symbol": "jp",
             "gold_medals": "1",
             "silver_medals": "1",
             "bronze_medals": "1",
@@ -132,6 +137,7 @@
         {
             "id": "6",
             "name": "South Korea",
+            "symbol": "kr",
             "gold_medals": "1",
             "silver_medals": "2",
             "bronze_medals": "0",
@@ -159,6 +165,7 @@
         {
             "id": "7",
             "name": "Spain",
+            "symbol": "es",
             "gold_medals": "1",
             "silver_medals": "0",
             "bronze_medals": "2",
@@ -186,6 +193,7 @@
         {
             "id": "8",
             "name": "France",
+            "symbol": "fr",
             "gold_medals": "2",
             "silver_medals": "1",
             "bronze_medals": "0",
@@ -213,6 +221,7 @@
         {
             "id": "9",
             "name": "Italy",
+            "symbol": "it",
             "gold_medals": "1",
             "silver_medals": "1",
             "bronze_medals": "1",
@@ -240,6 +249,7 @@
         {
             "id": "10",
             "name": "United Kingdom",
+            "symbol": "gb",
             "gold_medals": "1",
             "silver_medals": "1",
             "bronze_medals": "1",
